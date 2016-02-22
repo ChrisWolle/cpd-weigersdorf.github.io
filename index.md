@@ -3,7 +3,7 @@ layout: page
 headerimage: /img/header_startseite.png
 ---
 
-# Goldene eichen
+# Der Stamm Paul Richter
 
 Der Neuanfang Meißen der CPD wurde 2005 auf Initiative des evangelischen Chri­stusträger-Bruders Siegbert Stocker 
 ins Leben gerufen. Er führte und prägte den Neuanfang bis zum März 2009, dann ging er im Auftrag seines Ordens 
